@@ -1,2 +1,2 @@
 # UltimaParcela
-Recepção do valor total a ser pago e a quantidade de parcelas mensais de um financiamento. Exibição da data e o valor da última parcela.
+Recepção do valor total a ser pago, quantidade de parcelas mensais de um financiamento, e do pagamento inicial. Exibição da data e o valor da última parcela.
